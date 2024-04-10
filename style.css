@@ -147,7 +147,7 @@ header nav.menu-desktop ul li{
 
 /* topo do site*/
 section.topo-do-site{
-    padding: 40px 4%;
+    padding: 80px 12%;
 }
 
 section.topo-do-site .flex{
@@ -189,7 +189,7 @@ section.topo-do-site .flex{
 
 /* estilo das especialidades*/
 section.especialidades{
-    padding: 40px 4%;
+    padding: 60px 4%;
 }
 
 section.especialidades .flex{
@@ -221,7 +221,7 @@ section.especialidades .flex{
 
 /* estilo sobre*/
 section.sobre{
-    padding: 80px 4%;
+    padding: 80px 12%;
 }
 
 section.sobre .flex{
@@ -264,7 +264,7 @@ section.sobre .flex{
 /* estilo rodapé*/
 
 /*footer{
-    padding: 40px 4%;
+    padding: 40px 0%;
     box-shadow: 0 0 40px 10px #ffffff17;
 }*/
 
@@ -273,7 +273,12 @@ footer .flex{
 }
 
 footer .line-footer{
-    padding: 20px 0;
+    padding: 10px 0;
+    margin-top: 0%;
+}
+
+footer .line-footer p{
+    padding: 0 50%;
 }
 
 .borda{
@@ -327,6 +332,10 @@ footer .line-footer p a{
 
     section.especialidades{
         padding: 40px 8%;
+    }
+
+    section.especialidades h2{
+        text-align: left;
     }
 
     .logo-footer{
