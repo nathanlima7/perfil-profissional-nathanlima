@@ -199,6 +199,8 @@ section.especialidades .flex{
 .especialidades .especialidades-box{
     color: #fff;
     padding: 40px;
+    width: 660px;
+    justify-content: space-between;
     border-radius: 20px;
     margin-top: 45px;
     transition: .3s;
