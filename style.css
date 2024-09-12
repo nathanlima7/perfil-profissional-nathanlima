@@ -330,7 +330,7 @@ footer .line-footer p a{
     }
 
     .topo-do-site .img-topo-site img{
-        width: 100%;
+        width: 90%;
     }
 
     section.especialidades{
@@ -339,6 +339,10 @@ footer .line-footer p a{
 
     section.especialidades h2{
         text-align: left;
+    }
+
+    .especialidades-box{
+        width: 90%;
     }
 
     .logo-footer{
