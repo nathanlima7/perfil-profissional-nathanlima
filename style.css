@@ -346,6 +346,10 @@ footer .line-footer p a{
         font-size: 34px;
     }
 
+    .flex .especialidades-box{
+        width: 100%;
+    }
+
     .logo-footer{
         text-align: center;
     }
